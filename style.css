@@ -14,3 +14,9 @@ button {
     color: aliceblue;
     font-family: "Oswald", sans-serif;
 }
+.passo {
+    display:none;
+}
+.passo.ativo {
+    display: block;
+}
