@@ -15,7 +15,7 @@ button {
     font-family: "Oswald", sans-serif;
 }
 .passo {
-    display:none;
+    display: none;
 }
 .passo .ativo {
     display: block;
